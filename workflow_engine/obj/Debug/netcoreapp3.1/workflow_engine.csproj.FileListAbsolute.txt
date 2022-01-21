@@ -1,0 +1,13 @@
+C:\Users\haciy\source\repos\workflow_engine\bin\Debug\netcoreapp3.1\workflow_engine.exe
+C:\Users\haciy\source\repos\workflow_engine\bin\Debug\netcoreapp3.1\workflow_engine.deps.json
+C:\Users\haciy\source\repos\workflow_engine\bin\Debug\netcoreapp3.1\workflow_engine.runtimeconfig.json
+C:\Users\haciy\source\repos\workflow_engine\bin\Debug\netcoreapp3.1\workflow_engine.runtimeconfig.dev.json
+C:\Users\haciy\source\repos\workflow_engine\bin\Debug\netcoreapp3.1\workflow_engine.dll
+C:\Users\haciy\source\repos\workflow_engine\bin\Debug\netcoreapp3.1\workflow_engine.pdb
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.csprojAssemblyReference.cache
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.AssemblyInfoInputs.cache
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.AssemblyInfo.cs
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.csproj.CoreCompileInputs.cache
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.dll
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.pdb
+C:\Users\haciy\source\repos\workflow_engine\obj\Debug\netcoreapp3.1\workflow_engine.genruntimeconfig.cache
